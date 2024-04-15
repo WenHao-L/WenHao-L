@@ -43,5 +43,6 @@
 
 </div>
 
-[![Wan's GitHub stats](https://github-readme-stats.vercel.app/api?username=WenHao-L&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WenHao-L&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- stats card 统计卡片 -->
+[![Wan's GitHub stats](https://github-readme-stats.vercel.app/api?username=WenHao-L&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WenHao-L&count_private=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
