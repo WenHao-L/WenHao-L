@@ -6,6 +6,7 @@
 ### 🤺 About Me
 
 <!-- profile logo 个人资料徽标 -->
+<!--
 <div align="left">
 
   <div>
@@ -16,6 +17,7 @@
   </div>
 
 </div>
+-->
 
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
