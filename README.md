@@ -46,5 +46,7 @@
 </div>
 
 <!-- stats card 统计卡片 -->
+<!--
 [![Wan's GitHub stats](https://github-readme-stats-wenhao-ls-projects.vercel.app/api?username=WenHao-L&count_private=true&show_icons=true&theme=radical)](https://github.com/WenHao-L/github-readme-stats)
 [![Top Langs](https://github-readme-stats-wenhao-ls-projects.vercel.app/api/top-langs/?username=WenHao-L&count_private=true&layout=compact&theme=radical)](https://github.com/WenHao-L/github-readme-stats)
+-->
