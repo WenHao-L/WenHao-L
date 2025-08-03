@@ -33,17 +33,6 @@
 </td></tr>
 <tr><td>
 
-<!--  skill badge 技能徽章 -->
-<div align="center" >
-
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![PyTorch Badge](https://img.shields.io/badge/PyTorch-FEFEFE?logo=pytorch&logoColor=#EE4C2C&style=flat)
-![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![CMake Badge](https://img.shields.io/badge/CMake-064F8C?logo=CMake&logoColor=#DF0000&style=flat)
-![Docker Badge](https://img.shields.io/badge/Docker-3776AB?logo=Docker&logoColor=#2496ED&style=flat)
-
 </div>
 
 <!-- stats card 统计卡片 -->
